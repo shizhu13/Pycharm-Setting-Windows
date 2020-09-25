@@ -1,7 +1,22 @@
 <application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="D:/code/爬虫/lianxi/.idea/lianxi.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="managed" value="true" />
+              <option name="sdkHomePath" value="C:\ProgramData\Miniconda3\python.exe" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="JupyterSettings">
     <option name="previewFontSize" value="18" />
     <option name="showLineSeparators" value="false" />
+    <option name="showSourcesInPreview" value="false" />
     <option name="useEditorFontSize" value="false" />
   </component>
 </application>
