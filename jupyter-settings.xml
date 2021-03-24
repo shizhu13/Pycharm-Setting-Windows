@@ -14,6 +14,7 @@
     </option>
   </component>
   <component name="JupyterSettings">
+    <option name="autoscrollFromSource" value="false" />
     <option name="previewFontSize" value="18" />
     <option name="showLineSeparators" value="false" />
     <option name="showSourcesInPreview" value="false" />
